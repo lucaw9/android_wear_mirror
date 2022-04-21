@@ -3,11 +3,13 @@
 ## 1. Place the python file into path:
 
 `/c/Users/NAME/AppData/local/android/sdk/platform-tools`
+
 This location should contain adb.exe
 
-## 2. Open it and adjust the adress in line 35:
+## 2. Open it and adjust the address at line 35:
 
 Find address of your device by running cmd at this location and executing:
+
 `adb devices`
 
 ## 3. Execute it (for example via MinGW64):
