@@ -22,7 +22,9 @@ python android_screen_mirror_lw.py
 ## Credits:
 
 This application was originally developed by @baitisj here: 
+
 https://github.com/baitisj/android_screen_mirror
+
 Check the original repo for more info on how to use this.
 
 I merely adjusted some things to make it work with GTK 3.0
